@@ -5,3 +5,4 @@
 3. Stored production data in MySQL and interacted with database using Hibernate, deployed on Amazon RDS for better scalability.
 4. Improved personalized recommendation based on search history and favorite records.
 5. Implemented Postman Tests, detecting 50+ defects prior to release.
+6. Deployed services to the Amazon EC2 (Docker container)
