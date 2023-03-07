@@ -1,5 +1,6 @@
 # Twitch
 ## Designed and built a full-stack web application for users to search twitch resources (stream/video/clip) based on MVC Pattern and get recommendations.
+### [if you want to see the demo, you can click here](http://18.212.190.45/)
 1. Build RESTful web services to support get video recommendation, session-based login/logout and favorite collection using Spring Boot.
 2. Implemented controllers to handle RESTful APIs, Service and DAO to interact with business logic and used Dependency Injection to automatically create objects and Inversion of Control to manage lifecycle of objects.
 3. Stored production data in MySQL and interacted with database using Hibernate, deployed on Amazon RDS for better scalability.
